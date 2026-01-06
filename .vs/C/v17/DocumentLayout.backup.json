@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|solutionrelative:7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01C2D921-AB1B-48FA-AA8E-65491526A1EC}|CC.vcxproj|C:\\Users\\user\\Desktop\\C\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "7.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\7.c",
               "RelativeDocumentMoniker": "7.c",
@@ -61,19 +69,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "12.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\12.c",
+              "RelativeDocumentMoniker": "12.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\\12.c",
+              "RelativeToolTip": "12.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T11:59:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "11.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\11.c",
+              "RelativeDocumentMoniker": "11.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\\11.c",
+              "RelativeToolTip": "11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T10:16:42.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "10.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\10.c",
               "RelativeDocumentMoniker": "10.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C\\10.c*",
-              "RelativeToolTip": "10.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\\10.c",
+              "RelativeToolTip": "10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-05T12:44:11.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "9.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\9.c",
               "RelativeDocumentMoniker": "9.c",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "6.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\6.c",
               "RelativeDocumentMoniker": "6.c",
@@ -94,12 +128,11 @@
               "RelativeToolTip": "6.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-04T10:08:03.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T10:08:03.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "5.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\5.c",
               "RelativeDocumentMoniker": "5.c",
@@ -107,12 +140,11 @@
               "RelativeToolTip": "5.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-04T10:00:40.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T10:00:40.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "8.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\8.c",
               "RelativeDocumentMoniker": "8.c",
@@ -120,12 +152,11 @@
               "RelativeToolTip": "8.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-04T09:55:54.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:55:54.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "1.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\1.c",
               "RelativeDocumentMoniker": "1.c",
@@ -133,12 +164,11 @@
               "RelativeToolTip": "1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-04T09:43:11.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:43:11.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "3.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\\3.c",
               "RelativeDocumentMoniker": "3.c",
@@ -146,8 +176,7 @@
               "RelativeToolTip": "3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-04T09:21:28.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:21:28.326Z"
             }
           ]
         }
