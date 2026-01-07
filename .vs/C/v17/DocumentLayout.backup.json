@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-04T13:15:37.757Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "12.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\C\\12.c",
               "RelativeToolTip": "12.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-06T11:59:25.078Z",
               "EditorCaption": ""
@@ -89,8 +88,7 @@
               "RelativeToolTip": "11.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-06T10:16:42.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T10:16:42.454Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "10.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-05T12:44:11.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T12:44:11.588Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "9.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-05T11:36:10.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T11:36:10.798Z"
             },
             {
               "$type": "Document",
