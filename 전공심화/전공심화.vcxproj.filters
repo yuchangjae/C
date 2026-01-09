@@ -60,5 +60,62 @@
     <ClCompile Include="6 - 3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8 - 3%282%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,9 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1 - 3.c" />
+    <ClCompile Include="10 - 1.c" />
+    <ClCompile Include="10 - 2.c" />
+    <ClCompile Include="10 - 3.c" />
+    <ClCompile Include="11 - 1.c" />
+    <ClCompile Include="12 - 1.c" />
+    <ClCompile Include="13 - 1.c" />
+    <ClCompile Include="13 - 2.c" />
+    <ClCompile Include="14 - 1.c" />
     <ClCompile Include="2 - 1.c" />
     <ClCompile Include="2 - 2.c" />
     <ClCompile Include="2 - 3.c" />
+    <ClCompile Include="21 - 2.c" />
+    <ClCompile Include="21.c" />
     <ClCompile Include="3 - 1.c" />
     <ClCompile Include="3 - 2.c" />
     <ClCompile Include="4 - 1.c" />
@@ -142,6 +152,15 @@
     <ClCompile Include="6 - 1.c" />
     <ClCompile Include="6 - 2.c" />
     <ClCompile Include="6 - 3.c" />
+    <ClCompile Include="7 - 1.c" />
+    <ClCompile Include="7 - 2.c" />
+    <ClCompile Include="7 - 3.c" />
+    <ClCompile Include="8 - 2.c" />
+    <ClCompile Include="8 - 3%282%29.c" />
+    <ClCompile Include="8 - 3.c" />
+    <ClCompile Include="9 - 1.c" />
+    <ClCompile Include="9 - 2.c" />
+    <ClCompile Include="9 - 3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
