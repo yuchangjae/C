@@ -117,5 +117,41 @@
     <ClCompile Include="21 - 2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17 - 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18 - 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21 - 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
